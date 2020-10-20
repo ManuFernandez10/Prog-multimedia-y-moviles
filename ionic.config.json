@@ -1,0 +1,7 @@
+{
+  "name": "patata3",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
